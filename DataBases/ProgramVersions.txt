@@ -1,2 +1,2 @@
 WarframeTab - v1.6
-WhisperVoiceAssistant - v2.8
+WhisperVoiceAssistant - v2.9
